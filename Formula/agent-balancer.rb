@@ -5,9 +5,9 @@
 class AgentBalancer < Formula
   desc "Pick the Claude Code subscription account for your next launch"
   homepage "https://github.com/jakemismas/agent-balancer"
-  url "https://github.com/jakemismas/agent-balancer/releases/download/v1.1.0-rc1/agent-balancer-1.1.0-rc1-arm64.tar.gz"
-  version "1.1.0-rc1"
-  sha256 "6d7f478b3e1aba689736c7c671b2e8628adc95d4936d889698b636d4f14f2dde"
+  url "https://github.com/jakemismas/agent-balancer/releases/download/v1.2.0-rc1/agent-balancer-1.2.0-rc1-arm64.tar.gz"
+  version "1.2.0-rc1"
+  sha256 "48423c597128e9cc28eb588b56492036cf32d770949443ee128d8f329d647ca3"
   license "MIT"
 
   # The release is built for Apple silicon and macOS 14. The binary links only system libraries,
